@@ -51,3 +51,14 @@ The `workouts` array is memoized with `useMemo` since it changes only when `part
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/workout-timer-app.git
+2. Navigate to the project directory:
+   ```bash
+   cd workout-timer-app
+3. Start the development server:
+   ```bash
+   npm install
+4. Start the development server:
+   ```bash
+   npm start
+
+
